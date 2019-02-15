@@ -1,6 +1,6 @@
 {
   "name": "@akashic/engine-files",
-  "version": "1.1.7",
+  "version": "1.100.8",
   "description": "A library that manages versions of libraries related to Akashic Engine",
   "main": "index.js",
   "scripts": {
